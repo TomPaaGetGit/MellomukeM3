@@ -1,0 +1,15 @@
+D:\StartIT\Kode\Get Academy\M3\Oppgaver\Oppgave 8 - If Else 2\Oppgave 8 - If Else 2\bin\Debug\net6.0\Oppgave 8 - If Else 2.exe
+D:\StartIT\Kode\Get Academy\M3\Oppgaver\Oppgave 8 - If Else 2\Oppgave 8 - If Else 2\bin\Debug\net6.0\Oppgave 8 - If Else 2.deps.json
+D:\StartIT\Kode\Get Academy\M3\Oppgaver\Oppgave 8 - If Else 2\Oppgave 8 - If Else 2\bin\Debug\net6.0\Oppgave 8 - If Else 2.runtimeconfig.json
+D:\StartIT\Kode\Get Academy\M3\Oppgaver\Oppgave 8 - If Else 2\Oppgave 8 - If Else 2\bin\Debug\net6.0\Oppgave 8 - If Else 2.dll
+D:\StartIT\Kode\Get Academy\M3\Oppgaver\Oppgave 8 - If Else 2\Oppgave 8 - If Else 2\bin\Debug\net6.0\Oppgave 8 - If Else 2.pdb
+D:\StartIT\Kode\Get Academy\M3\Oppgaver\Oppgave 8 - If Else 2\Oppgave 8 - If Else 2\obj\Debug\net6.0\Oppgave 8 - If Else 2.csproj.AssemblyReference.cache
+D:\StartIT\Kode\Get Academy\M3\Oppgaver\Oppgave 8 - If Else 2\Oppgave 8 - If Else 2\obj\Debug\net6.0\Oppgave 8 - If Else 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\StartIT\Kode\Get Academy\M3\Oppgaver\Oppgave 8 - If Else 2\Oppgave 8 - If Else 2\obj\Debug\net6.0\Oppgave 8 - If Else 2.AssemblyInfoInputs.cache
+D:\StartIT\Kode\Get Academy\M3\Oppgaver\Oppgave 8 - If Else 2\Oppgave 8 - If Else 2\obj\Debug\net6.0\Oppgave 8 - If Else 2.AssemblyInfo.cs
+D:\StartIT\Kode\Get Academy\M3\Oppgaver\Oppgave 8 - If Else 2\Oppgave 8 - If Else 2\obj\Debug\net6.0\Oppgave 8 - If Else 2.csproj.CoreCompileInputs.cache
+D:\StartIT\Kode\Get Academy\M3\Oppgaver\Oppgave 8 - If Else 2\Oppgave 8 - If Else 2\obj\Debug\net6.0\Oppgave 8 - If Else 2.dll
+D:\StartIT\Kode\Get Academy\M3\Oppgaver\Oppgave 8 - If Else 2\Oppgave 8 - If Else 2\obj\Debug\net6.0\refint\Oppgave 8 - If Else 2.dll
+D:\StartIT\Kode\Get Academy\M3\Oppgaver\Oppgave 8 - If Else 2\Oppgave 8 - If Else 2\obj\Debug\net6.0\Oppgave 8 - If Else 2.pdb
+D:\StartIT\Kode\Get Academy\M3\Oppgaver\Oppgave 8 - If Else 2\Oppgave 8 - If Else 2\obj\Debug\net6.0\Oppgave 8 - If Else 2.genruntimeconfig.cache
+D:\StartIT\Kode\Get Academy\M3\Oppgaver\Oppgave 8 - If Else 2\Oppgave 8 - If Else 2\obj\Debug\net6.0\ref\Oppgave 8 - If Else 2.dll

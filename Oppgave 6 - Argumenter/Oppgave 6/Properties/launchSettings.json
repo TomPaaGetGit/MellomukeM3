@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Oppgave 6": {
+      "commandName": "Project",
+      "commandLineArgs": "Nissan Honda Toyota Mazda Subaru Mitsubishi"
+    },
+    "Profile 1": {
+      "commandName": "Project"
+    }
+  }
+}

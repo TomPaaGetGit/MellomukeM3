@@ -1,0 +1,15 @@
+D:\StartIT\Kode\Get Academy\M3\Oppgaver\Oppgave 2\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\StartIT\Kode\Get Academy\M3\Oppgaver\Oppgave 2\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\StartIT\Kode\Get Academy\M3\Oppgaver\Oppgave 2\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\StartIT\Kode\Get Academy\M3\Oppgaver\Oppgave 2\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+D:\StartIT\Kode\Get Academy\M3\Oppgaver\Oppgave 2\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\StartIT\Kode\Get Academy\M3\Oppgaver\Oppgave 2\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+D:\StartIT\Kode\Get Academy\M3\Oppgaver\Oppgave 2\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+D:\StartIT\Kode\Get Academy\M3\Oppgaver\Oppgave 2\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+D:\StartIT\Kode\Get Academy\M3\Oppgaver\Oppgave 2\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+D:\StartIT\Kode\Get Academy\M3\Oppgaver\Oppgave 2\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+D:\StartIT\Kode\Get Academy\M3\Oppgaver\Oppgave 2\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+D:\StartIT\Kode\Get Academy\M3\Oppgaver\Oppgave 2\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+D:\StartIT\Kode\Get Academy\M3\Oppgaver\Oppgave 2\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+D:\StartIT\Kode\Get Academy\M3\Oppgaver\Oppgave 2\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+D:\StartIT\Kode\Get Academy\M3\Oppgaver\Oppgave 2\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll

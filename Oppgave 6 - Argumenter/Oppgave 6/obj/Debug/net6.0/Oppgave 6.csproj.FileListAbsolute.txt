@@ -1,0 +1,17 @@
+D:\StartIT\Kode\Get Academy\M3\Oppgaver\Oppgave 6\Oppgave 6\bin\Debug\net6.0\Oppgave 6.exe
+D:\StartIT\Kode\Get Academy\M3\Oppgaver\Oppgave 6\Oppgave 6\bin\Debug\net6.0\Oppgave 6.deps.json
+D:\StartIT\Kode\Get Academy\M3\Oppgaver\Oppgave 6\Oppgave 6\bin\Debug\net6.0\Oppgave 6.runtimeconfig.json
+D:\StartIT\Kode\Get Academy\M3\Oppgaver\Oppgave 6\Oppgave 6\bin\Debug\net6.0\Oppgave 6.dll
+D:\StartIT\Kode\Get Academy\M3\Oppgaver\Oppgave 6\Oppgave 6\bin\Debug\net6.0\Oppgave 6.pdb
+D:\StartIT\Kode\Get Academy\M3\Oppgaver\Oppgave 6\Oppgave 6\obj\Debug\net6.0\Oppgave 6.csproj.AssemblyReference.cache
+D:\StartIT\Kode\Get Academy\M3\Oppgaver\Oppgave 6\Oppgave 6\obj\Debug\net6.0\Oppgave 6.GeneratedMSBuildEditorConfig.editorconfig
+D:\StartIT\Kode\Get Academy\M3\Oppgaver\Oppgave 6\Oppgave 6\obj\Debug\net6.0\Oppgave 6.AssemblyInfoInputs.cache
+D:\StartIT\Kode\Get Academy\M3\Oppgaver\Oppgave 6\Oppgave 6\obj\Debug\net6.0\Oppgave 6.AssemblyInfo.cs
+D:\StartIT\Kode\Get Academy\M3\Oppgaver\Oppgave 6\Oppgave 6\obj\Debug\net6.0\Oppgave 6.csproj.CoreCompileInputs.cache
+D:\StartIT\Kode\Get Academy\M3\Oppgaver\Oppgave 6\Oppgave 6\obj\Debug\net6.0\Oppgave 6.dll
+D:\StartIT\Kode\Get Academy\M3\Oppgaver\Oppgave 6\Oppgave 6\obj\Debug\net6.0\refint\Oppgave 6.dll
+D:\StartIT\Kode\Get Academy\M3\Oppgaver\Oppgave 6\Oppgave 6\obj\Debug\net6.0\Oppgave 6.pdb
+D:\StartIT\Kode\Get Academy\M3\Oppgaver\Oppgave 6\Oppgave 6\obj\Debug\net6.0\Oppgave 6.genruntimeconfig.cache
+D:\StartIT\Kode\Get Academy\M3\Oppgaver\Oppgave 6\Oppgave 6\obj\Debug\net6.0\ref\Oppgave 6.dll
+D:\StartIT\Kode\Get Academy\M3\Oppgaver\Oppgave 6\Oppgave 6\obj\Debug\net6.0\Oppgave_6.Properties.Resources.resources
+D:\StartIT\Kode\Get Academy\M3\Oppgaver\Oppgave 6\Oppgave 6\obj\Debug\net6.0\Oppgave 6.csproj.GenerateResource.cache
